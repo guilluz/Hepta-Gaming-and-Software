@@ -1,0 +1,4 @@
+chaise
+bureau
+table
+ordinateur
